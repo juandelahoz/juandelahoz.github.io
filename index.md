@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Bioinformatics
 
-You can use the [editor on GitHub](https://github.com/juandelahoz/juandelahoz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+There’s more to come. For now, you can find me on:
+ - [Twitter](https://twitter.com/juandelahozco)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+ - Bioinformatics, UCLA, Los Angeles. Current
+ - Applied Statistics, Universidad del Valle, Cali. 2016
+ - Biological Sciences, Universidad de los Andes, Bogotá. 2015
+ 
+## Publications
+ - [Google Scholar](https://scholar.google.com/citations?user=NAlC_iIAAAAJ)
+ - [ResearchGate](https://www.researchgate.net/profile/Juan_De_La_Hoz3)
+ - [ORCID](https://orcid.org/0000-0002-5584-7511)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juandelahoz/juandelahoz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Genomics
+### Psychiatry
+### EHR Phenotyping
